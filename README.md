@@ -8,3 +8,11 @@ The project highlights the implementation of a robust ETL pipeline, showcasing p
 ### Project Architecture:
 
 ![dataproject io](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/assets/98113578/29cd3d23-cef7-4364-9af3-d44fd3869c20)
+
+
+## Skills Demonstrated
+-  API Interaction: Automated data extraction from OpenWeather API.
+-  Data Manipulation: Utilized Python and Pandas to clean and transform data.
+-  Cloud Services: Deployed automated ETL workflows to extract, process, and store data on production using GCP services like Cloud Functions, Cloud Scheduler, BigQuery, and Cloud Storage.
+-  Data Visualization: Created an interactive dashboard using Looker Studio.
+
