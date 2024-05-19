@@ -16,6 +16,11 @@ The project highlights the implementation of a robust ETL pipeline, showcasing p
 -  Cloud Services: Deployed automated ETL workflows to extract, process, and store data on production using GCP services like Cloud Functions, Cloud Scheduler, BigQuery, and Cloud Storage.
 -  Data Visualization: Created an interactive dashboard using Looker Studio.
 
+[_._.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369188/_._.pdf)
+
+![_._.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369188/_._.pdf)
+
+
 [Αναφορά_χωρίς_τίτλο.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369155/_._.pdf)
 ![Αναφορά_χωρίς_τίτλο.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369181/_._.pdf)
 
