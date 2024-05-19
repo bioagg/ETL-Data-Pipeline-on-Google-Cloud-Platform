@@ -17,6 +17,7 @@ The project highlights the implementation of a robust ETL pipeline, showcasing p
 -  Data Visualization: Created an interactive dashboard using Looker Studio.
 
 [Αναφορά_χωρίς_τίτλο.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369155/_._.pdf)
+![Αναφορά_χωρίς_τίτλο.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369181/_._.pdf)
 
 ## Technologies Used
 
