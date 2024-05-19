@@ -15,7 +15,8 @@ The project highlights the implementation of a robust ETL pipeline, showcasing p
 -  Data Manipulation: Utilized Python and Pandas to clean and transform data.
 -  Cloud Services: Deployed automated ETL workflows to extract, process, and store data on production using GCP services like Cloud Functions, Cloud Scheduler, BigQuery, and Cloud Storage.
 -  Data Visualization: Created an interactive dashboard using Looker Studio.
-
+-  
+![436078412_1513291349226286_9165520949437490280_n](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/assets/98113578/aad4046b-3003-405f-a461-0f674ebabf7a)
 
 ## Technologies Used
 
