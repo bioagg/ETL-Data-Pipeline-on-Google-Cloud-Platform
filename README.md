@@ -16,3 +16,17 @@ The project highlights the implementation of a robust ETL pipeline, showcasing p
 -  Cloud Services: Deployed automated ETL workflows to extract, process, and store data on production using GCP services like Cloud Functions, Cloud Scheduler, BigQuery, and Cloud Storage.
 -  Data Visualization: Created an interactive dashboard using Looker Studio.
 
+[Αναφορά_χωρίς_τίτλο.pdf](https://github.com/bioagg/ETL-Data-Pipeline-on-Google-Cloud-Platform/files/15369155/_._.pdf)
+
+## Technologies Used
+
+-  Python 3.11, Pandas
+-  Google Cloud Platform (GCP)
+-  BigQuery, Google Cloud Storage, Cloud Functions, Cloud Scheduler
+-  Looker Studio
+
+## Project Files
+- main.py: Contains the full code for data extraction, transformation, and loading.
+- settings.py: Used to configure API keys, GCP service account files, project ID, and dataset ID.
+- requirements.txt: Lists all the dependencies necessary to run main.py.
+- The other files is files to help to understand the parts of code main.py 
