@@ -1,5 +1,4 @@
 # Weather API - ETL Data Pipeline on Google Cloud Platform
-
 This repository serves as a demonstration of an end-to-end ETL (Extract, Transform, Load) pipeline, designed to manage and analyze weather data using Google Cloud Platform (GCP). Developed for educational purposes in collaboration with DataProjects.io under the guidance of my colleague and friend Michalis Chionidis.
 
 ### Project Overview:
